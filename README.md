@@ -1,2 +1,3 @@
 # Python_demo_in_colab
-A collection of Python programming projects using AI assistance during and after university.
+A collection of Python programming projects during and after university.
+Some projects use AI-assisted design.
